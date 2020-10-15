@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/microchip/harmony/v2_06/apps/Uniformity%20Panel/firmware/src/usb.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/Uniformity%20Panel/firmware/src/Acq.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/Uniformity%20Panel/firmware/src/AdcAcq.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/Uniformity%20Panel/firmware/src/i2cbb.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/Uniformity%20Panel/firmware/src/Acq.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/Uniformity%20Panel/firmware/src/app.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/Uniformity%20Panel/firmware/src/AdcAcq.h</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/Uniformity%20Panel/firmware/src/system_config/default/system_init.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/Uniformity%20Panel/firmware/src/system_config/default/system_tasks.c</file>
+            <file>file:/C:/microchip/harmony/v2_06/apps/Uniformity%20Panel/firmware/src/hardwareProfile.h</file>
+        </group>
+    </open-files>
+</project-private>
